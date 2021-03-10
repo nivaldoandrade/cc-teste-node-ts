@@ -54,7 +54,8 @@ Na raiz do projeto tem o arquivo **.env.example** e **ormconfig.example**. Apaga
 Se optar, utilize o Insomnia para testar as requisições da API. <a href="https://insomnia.rest/download/">Download Insomnia Core.</a>
 
 ### **Workspace Insomnia**
-Tutorial de como importar Workspace para testes <a href="https://support.insomnia.rest/article/52-importing-and-exporting-data">Importing and Exporting Data.</a> Download do Workspace.
+Tutorial de como importar Workspace para testes <a href="https://support.insomnia.rest/article/52-importing-and-exporting-data">Importing and Exporting Data.</a><br/>
+<a href="https://github.com/nivaldoandrade/cc-teste-node-ts/blob/main/AssetsREADME/Insomnia_create_code.json">Download do Workspace.<a/>
 
 ### **Autenticação Insomnia**
 Tutorial de como inserir o Bearer token gerado na rota sessions. <a href="https://support.insomnia.rest/article/174-authentication">Authentication - Bearer Token.</a>
