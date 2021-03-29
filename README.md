@@ -4,7 +4,7 @@
 Criação de uma API básica em typescript com as entidades usuário, token do usuário e endereço. Foi implementado CRUD e relacionamento nas entidades.
 
 
-## **Configurações Inicias**
+## **Configurações Iniciais**
 
 ### **Node.js e Yarn**
 Realizar a instalação do <a href="https://nodejs.org/en/">node.js</a> e <a href="https://classic.yarnpkg.com/en/">yarn.</a>
